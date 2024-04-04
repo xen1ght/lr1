@@ -1,0 +1,58 @@
+
+body {
+    background-color: rgb(240, 240, 240);
+    font-family: Arial, sans-serif; 
+}
+
+
+nav ul {
+    list-style: none; 
+    background-color: black;
+}
+
+
+nav ul li a1 {
+    color:white;
+    font-size: 40px; 
+    font-weight: 400;
+    text-decoration: none;
+
+}
+nav ul li a{
+    color:white;
+    font-weight: 400;
+    text-decoration: none;
+
+}
+
+
+h1, h2, h3 {
+    color: black; 
+    font-size: 30px; 
+    font-weight: 400; 
+    margin-left: 10px;
+}
+
+
+.description a {
+    color: rgb(50, 50, 50); 
+    font-size: 30px;
+    font-style: italic; 
+    line-height: 16px; 
+    text-decoration: none;
+    margin-right: 500px;
+    margin-left :20px;
+}
+
+
+p{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
+img {
+    margin-right: 20px;
+}
+  footer {
+    text-align: center; 
+}

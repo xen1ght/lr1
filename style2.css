@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: rgb(240, 240, 240);
+    font-family: Arial, sans-serif; 
+}
+
+nav ul {
+    list-style: none;
+    background-color: black;
+}
+
+nav ul li a1 {
+    color:white;
+    font-size: 40px; 
+    font-weight: 400;
+    text-decoration: none;
+
+}
+nav ul li a{
+    color:white;
+    font-weight: 400;
+    text-decoration: none;
+
+}
+
+
+
+h1, h2 {
+    color: #333; 
+    font-weight: 400; 
+}
+footer {
+    text-align: center; 
+}

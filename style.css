@@ -1,0 +1,64 @@
+
+body {
+    background-color: rgb(220, 220, 220);
+    font-family: Arial, sans-serif; 
+
+}
+
+
+
+nav ul {
+    background-color: black;
+    list-style: none; 
+}
+
+nav ul li a1 {
+    color:white;
+    font-size: 40px; 
+    font-weight: 400;
+    text-decoration: none;
+
+}
+nav ul li a{
+    color:white;
+    font-weight: 400;
+    text-decoration: none;
+
+}
+h1, h2, h3 {
+    color: black; 
+    font-size: 25px; 
+    font-weight: 400; 
+}
+
+
+p {
+    color: rgb(50, 50, 50); 
+    font-size: 20px; 
+    font-style: italic; 
+    line-height: 16px; 
+}
+
+
+.description {
+    color: rgb(30, 30, 30); 
+    font-size: 16px; 
+    font-weight: 400; 
+    line-height: 24px; 
+    text-align: left; 
+}
+img {
+    margin-right: 100px;
+    margin-left: 60px;
+}
+h2{
+    text-align: center;
+}
+footer {
+    text-align: center; 
+}
+
+
+
+
+
